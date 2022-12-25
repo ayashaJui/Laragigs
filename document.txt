@@ -1,0 +1,13 @@
+# create laravel project
+-------------------------
+composer create-project laravel/laravel PROJECT_NAME
+
+# run in browser
+----------------
+php artisan serve
+
+# Frontend
+------------
+Tailwind css
+
+Alpine js -> flash message
